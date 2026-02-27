@@ -1,4 +1,4 @@
-# What the shelly 🐚
+# What The Shelly 🐚
 
 What the shelly is a minimal Unix-like shell written in Python.
 
